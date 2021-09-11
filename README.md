@@ -1,3 +1,15 @@
+**Run**
+
+Firstly change the direction to below direction.
+
+  -cd MarsRover
+  
+  - ..\MarsRover\MarsRover>  
+  
+Then run the following command on CLI
+
+  - dotnet run  
+
 # MarsRover
 
 A squad of robotic rovers are to be landed by NASA on a plateau on Mars. This plateau, which is
